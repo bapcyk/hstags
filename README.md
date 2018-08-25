@@ -37,7 +37,7 @@ $t|where {$_.Path -like '*Something*'}
 
 you can use any typical query expressions for PowerShell, where criteria is attributes of module object.
 Hierarchy is: `$t` is a list of modules, each module contains `Tags` which is a list of tags.
-You can find demo [here](https://vimeo.com/video/286579355).
+You can find demo [here](https://player.vimeo.com/video/286579355).
 
 Features
 ========
